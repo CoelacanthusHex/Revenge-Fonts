@@ -1,0 +1,27 @@
+{
+    "spec": 1,
+    "name": "IBM Plex Sans",
+    "previewText": "No one shall be held in slavery or servitude; slavery and the slave trade shall be prohibited in all their forms.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/main/NotoSansDisplay/NotoSansDisplay-Black.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/main/IBM-Plex-Sans/IBMPlexSans-Bold.otf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/main/IBM-Plex-Sans/IBMPlexSans-BoldItalic.otf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/main/NotoSansDisplay/NotoSansDisplay-ExtraBold.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/main/NotoSansDisplay/NotoSansDisplay-ExtraBoldItalic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/main/IBM-Plex-Sans/IBMPlexSans-Medium.otf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/main/IBM-Plex-Sans/IBMPlexSans-MediumItalic.otf?raw=1",
+        "ggsans-Normal": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/main/IBM-Plex-Sans/IBMPlexSans-Regular.otf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/main/IBM-Plex-Sans/IBMPlexSans-Italic.otf?raw=1",
+        "ggsans-Semibold": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/main/IBM-Plex-Sans/IBMPlexSans-SemiBold.otf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/main/IBM-Plex-Sans/IBMPlexSans-SemiBoldItalic.otf?raw=1",
+        "NotoSans-Bold": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/main/IBM-Plex-Sans/IBMPlexSans-Bold.otf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/main/IBM-Plex-Sans/NotoSansDisplay-ExtraBold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/main/IBM-Plex-Sans/IBMPlexSans-Medium.otf?raw=1",
+        "NotoSans-Normal": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/main/IBM-Plex-Sans/IBMPlexSans-Regular.otf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/main/IBM-Plex-Sans/IBMPlexSans-Italic.otf?raw=1",
+        "NotoSans-Semibold": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/main/IBM-Plex-Sans/IBMPlexSans-SemiBold.otf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/main/Iosevka/IosevkaCoelacanthus-SemiBold.ttf?raw=1",
+        "SourceCodePro-Normal": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/main/Iosevka/IosevkaCoelacanthus-Regular.ttf?raw=1",
+        "SourceCodePro-Regular": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/main/Iosevka/IosevkaCoelacanthus-Regular.ttf?raw=1"
+    }
+}
