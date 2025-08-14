@@ -20,8 +20,8 @@
         "NotoSans-Normal": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Georama/Georama-Regular.otf?raw=1",
         "NotoSans-NormalItalic": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Georama/Georama-Italic.otf?raw=1",
         "NotoSans-Semibold": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Georama/Georama-SemiBold.otf?raw=1",
-        "SourceCodePro-Semibold": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Iosevka/IosevkaCoelacanthus-SemiBold.ttf?raw=1",
-        "SourceCodePro-Normal": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Iosevka/IosevkaCoelacanthus-Regular.ttf?raw=1",
-        "SourceCodePro-Regular": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Iosevka/IosevkaCoelacanthus-Regular.ttf?raw=1"
+        "ggmono-Bold": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Iosevka/IosevkaCoelacanthus-Bold.ttf?raw=1",
+        "ggmono-Semibold": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Iosevka/IosevkaCoelacanthus-SemiBold.ttf?raw=1",
+        "ggmono-Normal": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Iosevka/IosevkaCoelacanthus-Regular.ttf?raw=1"
     }
 }
