@@ -20,17 +20,8 @@
         "NotoSans-Normal": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/IBM-Plex-Sans/IBMPlexSans-Regular.otf?raw=1",
         "NotoSans-NormalItalic": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/IBM-Plex-Sans/IBMPlexSans-Italic.otf?raw=1",
         "NotoSans-Semibold": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/IBM-Plex-Sans/IBMPlexSans-SemiBold.otf?raw=1",
-        "ggmono-ExtraBold": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Iosevka/IosevkaCoelacanthus-ExtraBold.ttf?raw=1",
-        "ggmono-ExtraBoldItalic": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Iosevka/IosevkaCoelacanthus-ExtraBoldItalic.ttf?raw=1",
         "ggmono-Bold": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Iosevka/IosevkaCoelacanthus-Bold.ttf?raw=1",
-        "ggmono-BoldItalic": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Iosevka/IosevkaCoelacanthus-BoldItalic.ttf?raw=1",
         "ggmono-Semibold": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Iosevka/IosevkaCoelacanthus-SemiBold.ttf?raw=1",
-        "ggmono-SemiboldItalic": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Iosevka/IosevkaCoelacanthus-SemiBoldItalic.ttf?raw=1",
-        "ggmono-Medium": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Iosevka/IosevkaCoelacanthus-Medium.ttf?raw=1",
-        "ggmono-MediumItalic": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Iosevka/IosevkaCoelacanthus-MediumItalic.ttf?raw=1",
-        "ggmono-Normal": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Iosevka/IosevkaCoelacanthus-Regular.ttf?raw=1",
-        "ggmono-NormalItalic": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Iosevka/IosevkaCoelacanthus-Italic.ttf?raw=1",
-        "ggmono-Light": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Iosevka/IosevkaCoelacanthus-Light.ttf?raw=1",
-        "ggmono-LightItalic": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Iosevka/IosevkaCoelacanthus-LightItalic.ttf?raw=1"
+        "ggmono-Normal": "https://github.com/CoelacanthusHex/Revenge-Fonts/raw/refs/heads/master/Iosevka/IosevkaCoelacanthus-Regular.ttf?raw=1"
     }
 }
